@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Model
+best_model.pth
